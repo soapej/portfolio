@@ -81,31 +81,31 @@ $('.showcase-overlay').click(function(){
 	})
 });
 $('.silk-block').click(function(){
-	$('.showcase-overlay img').attr('src', '/img/silken-composite.png');
+	$('.showcase-overlay img').attr('src', './img/silken-composite.png');
 	$('.overlay-text').html(silkText);
 });
 $('.gts-block').click(function(){
-	$('.showcase-overlay img').attr('src', '/img/gts-composite.png');
+	$('.showcase-overlay img').attr('src', './img/gts-composite.png');
 	$('.overlay-text').html(gtsText);
 });
 $('.productivity-block').click(function(){
-	$('.showcase-overlay img').attr('src', '/img/productivity.png');
+	$('.showcase-overlay img').attr('src', './img/productivity.png');
 	$('.overlay-text').html(productivityText);
 });
 $('.alp-blog-block').click(function(){
-	$('.showcase-overlay img').attr('src', '/img/alp-blog.png');
+	$('.showcase-overlay img').attr('src', './img/alp-blog.png');
 	$('.overlay-text').html(alpBlogText);
 });
 $('.alp-cms-block').click(function(){
-	$('.showcase-overlay img').attr('src', '/img/alp-cms.png');
+	$('.showcase-overlay img').attr('src', './img/alp-cms.png');
 	$('.overlay-text').html(alpCmsText);
 });
 $('.alp-data-block').click(function(){
-	$('.showcase-overlay img').attr('src', '/img/alp-data.png');
+	$('.showcase-overlay img').attr('src', './img/alp-data.png');
 	$('.overlay-text').html(alpDataText);
 });
 $('.alp-form-block').click(function(){
-	$('.showcase-overlay img').attr('src', '/img/alp-form.png');
+	$('.showcase-overlay img').attr('src', './img/alp-form.png');
 	$('.overlay-text').html(alpFormText);
 });
 
